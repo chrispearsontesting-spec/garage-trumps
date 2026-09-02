@@ -1,0 +1,1 @@
+Open pwa/index.html on the phone after copying the pwa folder. Add to Home Screen from Safari or Chrome.
